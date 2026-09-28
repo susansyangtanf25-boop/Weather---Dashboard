@@ -28,24 +28,6 @@ npm install
 npm run dev
 ```
 
-##Project Structure
-src/
-├── components/
-│   ├── Navbar.jsx
-│   ├── SearchBar.jsx
-│   ├── RecentSearches.jsx
-│   ├── WeatherCard.jsx
-│   └── ForecastList.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   └── History.jsx
-│
-├── App.jsx
-├── App.css
-├── index.css
-└── main.jsx
-
 
 ## Known Limitations
 - Geolocation ("use my location") is not implemented.
