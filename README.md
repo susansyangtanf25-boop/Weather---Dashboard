@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
- Project Structure
+##Project Structure
 src/
 ├── components/
 │   ├── Navbar.jsx
